@@ -13,7 +13,7 @@
 | 老农-zkweb | [www.cnblogs.com/zkweb](http://www.cnblogs.com/zkweb)     |   .Net  |
 | Jeffcky | [www.cnblogs.com/CreateMyself](http://www.cnblogs.com/CreateMyself)     |   C#  .Net  |
 | mindwind | [www.cnblogs.com/mindwind](http://www.cnblogs.com/mindwind/)     |   java  |
-| 数据之巅 | [www.cnblogs.com/asxinyu](http://www.cnblogs.com/asxinyu/)     |   java  |
+| 数据之巅 | [www.cnblogs.com/asxinyu](http://www.cnblogs.com/asxinyu/)     |   C#  .Net |
 | mindwind | [www.cnblogs.com/mindwind](http://www.cnblogs.com/mindwind/)     |   C#  .Net  |
 | chenssy | [www.cmsblogs.com](http://cmsblogs.com/)     |   java  |
 | 阿蜜果 | [www.blogjava.net/amigoxie](http://www.blogjava.net/amigoxie/)     |   java  |
