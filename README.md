@@ -39,6 +39,8 @@
 |wc的一些事一些情| [www.cnblogs.com/wcd144140](http://www.cnblogs.com/wcd144140/)     |   java |
 |ChokCoco| [www.cnblogs.com/coco1s](http://www.cnblogs.com/coco1s/)     |   前端 |
 |知秋| [muyinchen.github.io](https://muyinchen.github.io/)     |   java |
+|方志朋| [blog.csdn.net/forezp](http://blog.csdn.net/forezp)     |   java |
+
 
 
 > 按照入群顺序来排序
