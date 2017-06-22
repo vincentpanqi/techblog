@@ -10,7 +10,7 @@
 
 
 | 博主          |   博客地址    | 主要方向  | 微信公众号 |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :-----:|-----:|
 | D瓜哥      |  [www.diguage.com](http://www.diguage.com/) | java |
 | 农码一生     | [www.cnblogs.com/zhaopei](http://www.cnblogs.com/zhaopei/)     |    C# .NET |
 | 纯洁的微笑 | [www.ityouknow.com](http://www.ityouknow.com/)     |   java  | 纯洁的微笑|
