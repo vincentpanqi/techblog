@@ -60,7 +60,9 @@
 |柴| [www.geektechblog.tk](http://www.geektechblog.tk)     |  python  |
 |mikumikulch| [mikumikulch.gitbooks.io](https://mikumikulch.gitbooks.io/chucklin_blog/content/ )     |  java  |
 |抹桥| [www.kisnows.com](https://www.kisnows.com)     |  前端  |
-
+|polaris| [blog.studygolang.com](http://blog.studygolang.com)     |  golang |
+|黑鸟🐦| [www.blovb.com](http://www.blovb.com)     |  安全 |
+|码志| [mazhuang.org](http://mazhuang.org)     |  JAVA |
 
 
 > 按照入群顺序来排序
