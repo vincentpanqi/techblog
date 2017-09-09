@@ -50,6 +50,8 @@
 |ChokCoco| [www.cnblogs.com/coco1s](http://www.cnblogs.com/coco1s/)     |   前端 |
 |知秋| [muyinchen.github.io](https://muyinchen.github.io/)     |   JAVA |
 |方志朋| [blog.csdn.net/forezp](http://blog.csdn.net/forezp)     |   JAVA |
+|天在雨| [www.algorithmdog.com](http://www.algorithmdog.com/)     |   机器学习 |
+|李同学| [virusdefender.net](https://virusdefender.net)     |   python |
 
 
 
