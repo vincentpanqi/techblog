@@ -63,6 +63,9 @@
 |polaris| [blog.studygolang.com](http://blog.studygolang.com)     |  golang |
 |黑鸟🐦| [www.blovb.com](http://www.blovb.com)     |  安全 |
 |码志| [mazhuang.org](http://mazhuang.org)     |  JAVA |
+|翟路佳| [blog.meathill.com](http://blog.meathill.com)     |  前端 |
+
+
 
 
 > 按照入群顺序来排序
