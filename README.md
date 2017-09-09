@@ -54,14 +54,11 @@
 |李同学| [virusdefender.net](https://virusdefender.net)     |   python |
 |梅文杰-bboys| [www.bboysoul.com](http://www.bboysoul.com)     |   后端 |
 |查利鹏| [imzlp.me](https://imzlp.me)     |   C++ |
-|hwding| [hwding.coding.me](https://hwding.coding.me)     |   JAVA |
-|迟丰| [blog.lichifeng.com](http://blog.lichifeng.com)     |    |
 |勇敢的心| [studyai.com/blog/index](http://studyai.com/blog/index)     |  机器学习  |
 |CLL| [www.geekjc.com](https://www.geekjc.com)     |  前端  |
 |Zhisheng Tian| [www.54tianzhisheng.cn](http://www.54tianzhisheng.cn)     |  JAVA  |
 |柴| [www.geektechblog.tk](http://www.geektechblog.tk)     |  python  |
 |mikumikulch| [mikumikulch.gitbooks.io](https://mikumikulch.gitbooks.io/chucklin_blog/content/ )     |  java  |
-|xknow| [xknow.net](https://xknow.net)     |  python  |
 |抹桥| [www.kisnows.com](https://www.kisnows.com)     |  前端  |
 
 
