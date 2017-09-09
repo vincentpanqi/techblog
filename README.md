@@ -61,6 +61,8 @@
 |Zhisheng Tian| [www.54tianzhisheng.cn](http://www.54tianzhisheng.cn)     |  JAVA  |
 |柴| [www.geektechblog.tk](http://www.geektechblog.tk)     |  python  |
 |mikumikulch| [mikumikulch.gitbooks.io](https://mikumikulch.gitbooks.io/chucklin_blog/content/ )     |  java  |
+|xknow| [xknow.net](https://xknow.net)     |  python  |
+|抹桥| [www.kisnows.com](https://www.kisnows.com)     |  前端  |
 
 
 
