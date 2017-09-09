@@ -55,7 +55,7 @@
 |梅文杰-bboys| [www.bboysoul.com](http://www.bboysoul.com)     |   后端 |
 |查利鹏| [imzlp.me](https://imzlp.me)     |   C++ |
 |hwding| [hwding.coding.me](https://hwding.coding.me)     |   JAVA |
-|迟丰| [hwding.coding.me](http://blog.lichifeng.com)     |    |
+|迟丰| [blog.lichifeng.com](http://blog.lichifeng.com)     |    |
 |勇敢的心| [studyai.com/blog/index](http://studyai.com/blog/index)     |  机器学习  |
 
 
