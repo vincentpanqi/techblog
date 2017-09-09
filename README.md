@@ -43,7 +43,7 @@
 |焰尾迭 | [www.cnblogs.com/yanweidie](http://www.cnblogs.com/yanweidie/)     |    C# .NET  |
 |张子阳 | [www.cnblogs.com/JimmyZhang](http://www.cnblogs.com/JimmyZhang/)     |    C# .NET  |
 |Emrys | [www.cnblogs.com/emrys5](http://www.cnblogs.com/emrys5/)     |    C# .NET  |
-|梁桂钊| [blog.720ui.com](http://blog.720ui.com/)     |   JAVA |
+|梁桂钊| [blog.720ui.com](http://blog.720ui.com/)     |   JAVA | 服务端思维|
 |王爵nice| [www.biezhi.me](http://biezhi.me/)     |   JAVA |
 |占小狼| [www.jianshu.com/u/90ab66c248e6](http://www.jianshu.com/u/90ab66c248e6)     |   JAVA |
 |wc的一些事一些情| [www.cnblogs.com/wcd144140](http://www.cnblogs.com/wcd144140/)     |   JAVA |
