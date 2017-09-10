@@ -65,7 +65,8 @@
 |码志| [mazhuang.org](http://mazhuang.org)     |  JAVA |
 |翟路佳| [blog.meathill.com](http://blog.meathill.com)     |  全栈 |
 |crossoverJie| [crossoverjie.top](https://crossoverjie.top)     | JAVA |
-|刘超| [tech.liuchao.me](https://tech.liuchao.me/)     | 后端 |
+|刘超| [tech.liuchao.me](https://tech.liuchao.me)     | 后端 |
+|liletian| database.jlu.edu.cn/liletian](http://database.jlu.edu.cn/liletian)     | python |
 
 
 
