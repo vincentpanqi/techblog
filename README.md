@@ -66,7 +66,8 @@
 |翟路佳| [blog.meathill.com](http://blog.meathill.com)     |  全栈 |
 |crossoverJie| [crossoverjie.top](https://crossoverjie.top)     | JAVA |
 |刘超| [tech.liuchao.me](https://tech.liuchao.me)     | 后端 |
-|liletian| database.jlu.edu.cn/liletian](http://database.jlu.edu.cn/liletian)     | python |
+|liletian| [database.jlu.edu.cn/liletian](http://database.jlu.edu.cn/liletian)     | python |
+|yonghaowu| [yonghaowu.github.io](http://yonghaowu.github.io)     | C/C++, PHP or Python |
 
 
 
