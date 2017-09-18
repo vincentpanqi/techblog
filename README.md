@@ -68,7 +68,7 @@
 |刘超| [tech.liuchao.me](https://tech.liuchao.me)     | 后端 |
 |liletian| [database.jlu.edu.cn/liletian](http://database.jlu.edu.cn/liletian)     | python |
 |yonghaowu| [yonghaowu.github.io](http://yonghaowu.github.io)     | C/C++, PHP or Python |
-|金笔头| [yinbitou.net](http://jinbitou.net)     | 后端 |
+|金笔头| [jinbitou.net](http://jinbitou.net)     | 后端 |
 
 
 > 按照入群顺序来排序
