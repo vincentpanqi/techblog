@@ -69,6 +69,7 @@
 |liletian| [database.jlu.edu.cn/liletian](http://database.jlu.edu.cn/liletian)     | python |
 |yonghaowu| [yonghaowu.github.io](http://yonghaowu.github.io)     | C/C++, PHP or Python |
 |金笔头| [yinbitou.net](http://jinbitou.net)     | 后端 |
+|姜汁啤酒| [gingerbeer.blog.51cto.com](http://gingerbeer.blog.51cto.com)     | 网络 |
 
 
 > 按照入群顺序来排序
