@@ -69,7 +69,7 @@
 |yonghaowu| [yonghaowu.github.io](http://yonghaowu.github.io)     | C/C++, PHP or Python |
 |姜汁啤酒| [gingerbeer.blog.51cto.com](http://gingerbeer.blog.51cto.com)     | 网络 |
 |金笔头| [jinbitou.net](http://jinbitou.net)     | 后端 |
-|丑胖下| [http://blog.csdn.net/wo541075754](http://blog.csdn.net/wo541075754)     | 区块链&Drools |
+|丑胖侠| [http://blog.csdn.net/wo541075754](http://blog.csdn.net/wo541075754)     | 区块链&Drools |
 
 > 按照入群顺序来排序
 
