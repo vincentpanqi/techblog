@@ -24,7 +24,6 @@
 | Jeffcky | [www.cnblogs.com/CreateMyself](http://www.cnblogs.com/CreateMyself)     |   C# .NET  |
 | mindwind | [www.cnblogs.com/mindwind](http://www.cnblogs.com/mindwind/)     |   JAVA | mindwind|
 | 数据之巅 | [www.cnblogs.com/asxinyu](http://www.cnblogs.com/asxinyu/)     |   C# .NET |
-| mindwind | [www.cnblogs.com/mindwind](http://www.cnblogs.com/mindwind/)     |   C# .NET  |
 | chenssy | [www.cmsblogs.com](http://cmsblogs.com/)     |   JAVA |
 | 阿蜜果 | [www.blogjava.net/amigoxie](http://www.blogjava.net/amigoxie/)     |   JAVA |
 |静儿1986 | [www.cnblogs.com/xiexj](http://www.cnblogs.com/xiexj/)     |   JAVA |
