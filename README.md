@@ -80,3 +80,8 @@
 
    
 *推荐大家将此页作为友情链接，添加到个人博客中*
+
+
+<div style="display:none">
+<script src="https://s22.cnzz.com/z_stat.php?id=1264526122&web_id=1264526122" language="JavaScript"></script>
+</div>
